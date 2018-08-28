@@ -1,0 +1,1 @@
+This is a project from the VDAB course Javascript (pt. 2)
